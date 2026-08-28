@@ -15,11 +15,7 @@ project_uart/
   tb/                   Testbenches for each UART block
 ```
 
-## Note
 
-The earlier combinational labs (full adder, demux, encoder, decoder,
-comparator, ALU) were solved separately and should be added here as well
-before submission — see `labs/day6_p2_combinational/`.
 
 ## Simulation
 
