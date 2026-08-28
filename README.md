@@ -1,6 +1,6 @@
 # NTI Verilog Labs
 
-Digital Electronics / Analog & Digital IC course labs, National Telecommunication Institute.
+Digital Electronics / Digital IC course labs, National Telecommunication Institute.
 
 ## Structure
 
